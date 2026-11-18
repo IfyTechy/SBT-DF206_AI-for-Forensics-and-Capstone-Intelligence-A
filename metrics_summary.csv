@@ -1,0 +1,5 @@
+,TP,FP,FN,TN,accuracy,precision,recall,f1,auroc,auprc
+ML (TF-IDF+LogReg),34.0,8.0,0.0,4.0,0.8261,0.8095,1.0,0.8947,0.9902,0.9965
+Baseline: strict IPv4 only,34.0,2.0,0.0,10.0,0.9565,0.9444,1.0,0.9714,,
+Baseline: strict + context,23.0,2.0,11.0,10.0,0.7174,0.92,0.6765,0.7797,,
+Majority class,34.0,12.0,0.0,0.0,0.7391,0.7391,1.0,0.85,,
