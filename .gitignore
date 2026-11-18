@@ -1,0 +1,17 @@
+# Evidence originals (course material; supplied scripts contain embedded credentials)
+originals/
+*.zip
+
+# Secrets
+.env
+*.key
+*secret*
+*token*
+
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
