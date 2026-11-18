@@ -1,9 +1,13 @@
 # ICDFA CIP-B107 LAB01: AI-Assisted IP Evidence Identification and Model Evaluation
 
 **Case ID:** ICDFA-DFIR-AI-026
+
 **Course:** AI for Forensics and Capstone Intelligence A (ICDFA CIP-B107)
+
 **Student:** Nebeuwa Ifeanyichukwu Raphael
-**Student / registration ID:** `<YOUR-STUDENT-ID>`
+
+**Student / registration ID:** `202520850LE`
+
 **Mode:** Individual practical assessment
 
 > The data used here is a synthetic teaching dataset. Nothing in this repository establishes that any device was compromised or that any address is malicious.
